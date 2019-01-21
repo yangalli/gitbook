@@ -1,8 +1,4 @@
----
-description: Nova Acrópole
----
-
-# Initial page
+# Página Inicial
 
 Texto teste
 
